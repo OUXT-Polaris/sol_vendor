@@ -2,8 +2,8 @@
 Changelog for package sol_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2021-07-03)
+------------------
 * Add package description
 * Merge pull request `#1 <https://github.com/OUXT-Polaris/sol_vendor/issues/1>`_ from OUXT-Polaris/workflow/foxy
   update CI workflow for foxy
