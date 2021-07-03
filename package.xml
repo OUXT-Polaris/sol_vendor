@@ -3,7 +3,7 @@
 <package format="3">
   <name>sol_vendor</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>vendor package for the sol2 library</description>
   <maintainer email="pythagora.yoshimoto@gmail.com">Kotaro Yoshimoto</maintainer>
   <license>Apache 2.0</license>
 
