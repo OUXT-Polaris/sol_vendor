@@ -2,8 +2,8 @@
 Changelog for package sol_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2021-08-17)
+------------------
 * Merge branch 'main' of https://github.com/OUXT-Polaris/sol_vendor into main
 * update CHANGELOG
 * Setup scenario test workflow (`#6 <https://github.com/OUXT-Polaris/sol_vendor/issues/6>`_)
