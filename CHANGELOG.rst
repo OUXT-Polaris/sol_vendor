@@ -2,8 +2,8 @@
 Changelog for package sol_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2021-12-20)
+------------------
 * Merge pull request `#23 <https://github.com/OUXT-Polaris/sol_vendor/issues/23>`_ from OUXT-Polaris/fix/license
   fix license
 * empty commit
