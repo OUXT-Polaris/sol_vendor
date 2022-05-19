@@ -9,6 +9,7 @@
   <license>MIT</license>  <!-- sol2 is MIT -->
 
   <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>git</buildtool_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ouxt_lint_common</test_depend>
